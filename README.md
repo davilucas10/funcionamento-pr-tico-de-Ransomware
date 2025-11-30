@@ -22,7 +22,7 @@ Geração e Sumiço da Chave: Aprendi a gerar a chave de criptografia (Fernet) e
 
 A Criptografia Não Autorizada: Estudei como rodar scripts que usam essa chave para criptografar arquivos (deixando-os ilegíveis) e, logo depois, criar aquela famosa e assustadora mensagem de resgate pedindo dinheiro.
 
-A Função Mágica (Descriptografia): O curso me mostrou a função de descriptografia, mas a grande lição é que ela só funciona se o atacante decidir te dar a chave de volta. É um poder total que ele detém.
+A Função Mágica (Descriptografia): O curso me mostrou a função de descriptografar, mas a grande lição é que ela só funciona se o atacante decidir te dar a chave de volta. É um poder total que ele detém.
 
 * A Minha Defesa "Anti-Choro" Contra Ransomware
 A melhor forma de derrotar o Ransomware é fazendo com que ele seja inútil:
