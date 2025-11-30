@@ -16,7 +16,7 @@ Mas o aprendizado que realmente ficou é que o elo mais fraco é sempre o humano
 1. Ransomware: O Ataque de Sequestro Digital
 Estudar o Ransomware me fez perceber que ele é, na verdade, um problema de extorsão baseada em matemática. A gente não perde o arquivo, a gente perde a chave que o abre.
 
-1.1. Dissecando o Sequestro (O que eu aprendi a simular) Eu vi na prática como a coisa acontece:
+* Dissecando o Sequestro (O que eu aprendi a simular) Eu vi na prática como a coisa acontece:
 
 Geração e Sumiço da Chave: Aprendi a gerar a chave de criptografia (Fernet) e entendi que, no mundo real, o atacante exfiltra ela para longe e a destroi do computador da vítima. É por isso que você não consegue reverter!
 
@@ -24,7 +24,7 @@ A Criptografia Não Autorizada: Estudei como rodar scripts que usam essa chave p
 
 A Função Mágica (Descriptografia): O curso me mostrou a função de descriptografia, mas a grande lição é que ela só funciona se o atacante decidir te dar a chave de volta. É um poder total que ele detém.
 
-1.2. A Minha Defesa "Anti-Choro" Contra Ransomware
+* A Minha Defesa "Anti-Choro" Contra Ransomware
 A melhor forma de derrotar o Ransomware é fazendo com que ele seja inútil:
 
 O Backup 3-2-1 é Vida: Eu entendi que ter três cópias dos meus arquivos (em duas mídias diferentes, sendo uma delas off-line, isolada) é a única garantia real. Se o Ransomware me pegar, eu dou de ombros, formate a máquina e recupero os dados.
@@ -36,7 +36,7 @@ Princípio da Preguiça: Nunca execute algo como Administrador se não precisar!
 2. ⌨️ Keylogger: O Espião Silencioso
 O Keylogger me ensinou a importância da furtividade. Ele não quer destruir seus dados, ele quer roubar seus segredos (senhas, conversas, dados bancários).
 
-2.1. Como me Tornei um "Micro-Espião" (Foco na Simulação)
+* Como me Tornei um "Micro-Espião" (Foco na Simulação)
 O curso me ensinou os truques de bastidores do Keylogger:
 
 A Escuta Ativa: Aprendi a usar o pynput para capturar cada tecla que é digitada. É como ter um microfone secreto no teclado.
@@ -45,7 +45,7 @@ Rodando no Escuro: O maior aprendizado de furtividade foi descobrir como esconde
 
 O Envio dos Segredos: Estudei como enviar esses dados capturados remotamente ao atacante usando protocolos de e-mail (smtplib). Essa conexão de saída é o calcanhar de Aquiles do Keylogger – o ponto onde a gente pode detectá-lo!
 
-2.2. A Minha Defesa "À Prova de Fuga" Contra Keylogger
+* A Minha Defesa "À Prova de Fuga" Contra Keylogger
 A gente anula o valor dos dados roubados:
 
 MFA (Autenticação de Múltiplos Fatores): Isso é ouro! Se minha senha for capturada, o token de segundo fator (aquele código que muda a cada 30 segundos) torna a senha inútil para o ladrão. Fim de jogo para o Keylogger!
