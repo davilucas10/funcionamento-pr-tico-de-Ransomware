@@ -14,7 +14,7 @@ A Furtividade é a Chave: Aprendi a criar um Keylogger, a escondê-lo do usuári
 
 Mas o aprendizado que realmente ficou é que o elo mais fraco é sempre o humano. Por isso, a Engenharia Social é a maior vilã de todas!
 
-#1. Ransomware: O Ataque de Sequestro Digital
+# Ransomware: O Ataque de Sequestro Digital
 
 Estudar o Ransomware me fez perceber que ele é, na verdade, um problema de extorsão baseada em matemática. A gente não perde o arquivo, a gente perde a chave que o abre.
 
@@ -24,7 +24,7 @@ Geração e Sumiço da Chave: Aprendi a gerar a chave de criptografia (Fernet) e
 
 A Criptografia Não Autorizada: Estudei como rodar scripts que usam essa chave para criptografar arquivos (deixando-os ilegíveis) e, logo depois, criar aquela famosa e assustadora mensagem de resgate pedindo dinheiro.
 
-A Função Mágica (Descriptografia): O curso me mostrou a função de descriptografar, mas a grande lição é que ela só funciona se o atacante decidir te dar a chave de volta. É um poder total que ele detém.
+A Função Mágica (Descriptografia): O curso me mostrou a função de descriptografar, mas a grande lição é que ela só funciona se o atacante decidir te dar de volta. É um poder total que ele detém.
 
 * A Minha Defesa "Anti-Choro" Contra Ransomware
 A melhor forma de derrotar o Ransomware é fazendo com que ele seja inútil:
@@ -35,7 +35,7 @@ Olho no Comportamento: É crucial ter ferramentas que observem se um programa es
 
 Princípio da Preguiça: Nunca execute algo como Administrador se não precisar! O ataque só consegue se espalhar se o usuário tiver permissões demais.
 
-#2. Keylogger: O Espião Silencioso
+# Keylogger: O Espião Silencioso
 
 O Keylogger me ensinou a importância da furtividade. Ele não quer destruir seus dados, ele quer roubar seus segredos (senhas, conversas, dados bancários).
 
@@ -57,7 +57,7 @@ De Olho no Tráfego: Se um programa que não é seu cliente de e-mail estiver te
 
 Gerenciadores de Senhas: Usar password managers (que preenchem senhas automaticamente) muitas vezes impede a digitação manual, enganando o Keylogger que está "ouvindo" as teclas.
 
-#3. A Lição Final: A Batalha Começa na Caixa de Entrada
+# A Lição Final: A Batalha Começa na Caixa de Entrada
 
 Entender a construção desses malwares foi fundamental, mas se tem uma coisa que aprendi de verdade é que a tecnologia falha quando o humano erra.
 
