@@ -14,7 +14,8 @@ A Furtividade é a Chave: Aprendi a criar um Keylogger, a escondê-lo do usuári
 
 Mas o aprendizado que realmente ficou é que o elo mais fraco é sempre o humano. Por isso, a Engenharia Social é a maior vilã de todas!
 
-1. Ransomware: O Ataque de Sequestro Digital
+#1. Ransomware: O Ataque de Sequestro Digital
+
 Estudar o Ransomware me fez perceber que ele é, na verdade, um problema de extorsão baseada em matemática. A gente não perde o arquivo, a gente perde a chave que o abre.
 
 * Dissecando o Sequestro (O que eu aprendi a simular) Eu vi na prática como a coisa acontece:
@@ -34,7 +35,8 @@ Olho no Comportamento: É crucial ter ferramentas que observem se um programa es
 
 Princípio da Preguiça: Nunca execute algo como Administrador se não precisar! O ataque só consegue se espalhar se o usuário tiver permissões demais.
 
-2. ⌨️ Keylogger: O Espião Silencioso
+#2. Keylogger: O Espião Silencioso
+
 O Keylogger me ensinou a importância da furtividade. Ele não quer destruir seus dados, ele quer roubar seus segredos (senhas, conversas, dados bancários).
 
 * Como me Tornei um "Micro-Espião" (Foco na Simulação)
@@ -55,7 +57,8 @@ De Olho no Tráfego: Se um programa que não é seu cliente de e-mail estiver te
 
 Gerenciadores de Senhas: Usar password managers (que preenchem senhas automaticamente) muitas vezes impede a digitação manual, enganando o Keylogger que está "ouvindo" as teclas.
 
-3. A Lição Final: A Batalha Começa na Caixa de Entrada
+#3. A Lição Final: A Batalha Começa na Caixa de Entrada
+
 Entender a construção desses malwares foi fundamental, mas se tem uma coisa que aprendi de verdade é que a tecnologia falha quando o humano erra.
 
 O mais importante é a Engenharia Social. O código de ataque é só a bala, mas o phishing é a arma. Aprendi que a maior parte dos malwares de Ransomware e Keylogger entram no sistema porque alguém foi enganado por um e-mail falso ou uma mensagem urgente.
