@@ -16,10 +16,9 @@ Mas o aprendizado que realmente ficou é que o elo mais fraco é sempre o humano
 1. Ransomware: O Ataque de Sequestro Digital
 Estudar o Ransomware me fez perceber que ele é, na verdade, um problema de extorsão baseada em matemática. A gente não perde o arquivo, a gente perde a chave que o abre.
 
-1.1. Dissecando o Sequestro (O que eu aprendi a simular)
-Eu vi na prática como a coisa acontece:
+1.1. Dissecando o Sequestro (O que eu aprendi a simular) Eu vi na prática como a coisa acontece:
 
-Geração e Sumiço da Chave: Aprendi a gerar a chave de criptografia (Fernet) e entendi que, no mundo real, o atacante exfiltra ela para longe e a destrói do computador da vítima. É por isso que você não consegue reverter!
+Geração e Sumiço da Chave: Aprendi a gerar a chave de criptografia (Fernet) e entendi que, no mundo real, o atacante exfiltra ela para longe e a destroi do computador da vítima. É por isso que você não consegue reverter!
 
 A Criptografia Não Autorizada: Estudei como rodar scripts que usam essa chave para criptografar arquivos (deixando-os ilegíveis) e, logo depois, criar aquela famosa e assustadora mensagem de resgate pedindo dinheiro.
 
