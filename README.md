@@ -1,0 +1,1 @@
+# funcionamento-pr-tico-de-Ransomware
