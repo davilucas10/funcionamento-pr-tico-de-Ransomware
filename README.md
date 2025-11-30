@@ -4,7 +4,8 @@ Desvendando o Lado Sombrio da Programação: Ransomware e Keylogger (Minha Jorna
 Olá! Este projeto é a prova de que eu realmente mergulhei de cabeça nos conceitos de malware que o curso apresentou. Não se trata de código de ataque, mas sim do meu "diário de bordo" sobre como essas ameaças funcionam, o que elas exploram e, o mais importante, como a gente se defende delas.
 
 No fundo, aprendi que, para proteger, a gente precisa entender o inimigo!
-* Os Meus Grandes "Aha!" do Curso
+
+# Os Meus Grandes "Aha!" do Curso
 O curso me deu o poder de ver o mundo da segurança de forma diferente. Olhando para o Ransomware e o Keylogger, o meu maior insight foi:
 
 Ataque é Arquitetura: Estudei como construir as funções essenciais do Ransomware (criptografar, descriptografar e fazer a mensagem de resgate).
